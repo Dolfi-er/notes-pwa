@@ -1,18 +1,18 @@
 const CACHE_NAME = 'notes-pwa-v1';
 const ASSETS_TO_CACHE = [
-  '/',
-  '/index.html',
-  '/styles.css',
-  '/app.js',
-  '/manifest.json',
-  '/icons/icon-72x72.png',
-  '/icons/icon-96x96.png',
-  '/icons/icon-128x128.png',
-  '/icons/icon-144x144.png',
-  '/icons/icon-152x152.png',
-  '/icons/icon-192x192.png',
-  '/icons/icon-384x384.png',
-  '/icons/icon-512x512.png'
+  '/notes-pwa/',
+  '/notes-pwa/index.html',
+  '/notes-pwa/styles.css',
+  '/notes-pwa/app.js',
+  '/notes-pwa/manifest.json',
+  '/notes-pwa/icons/icon-72x72.png',
+  '/notes-pwa/icons/icon-96x96.png',
+  '/notes-pwa/icons/icon-128x128.png',
+  '/notes-pwa/icons/icon-144x144.png',
+  '/notes-pwa/icons/icon-152x152.png',
+  '/notes-pwa/icons/icon-192x192.png',
+  '/notes-pwa/icons/icon-384x384.png',
+  '/notes-pwa/icons/icon-512x512.png'
 ];
 
 self.addEventListener('install', (event) => {

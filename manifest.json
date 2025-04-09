@@ -2,7 +2,7 @@
     "name": "Офлайн Заметки",
     "short_name": "Заметки",
     "description": "Простое приложение для заметок с офлайн-доступом",
-    "start_url": "/",
+    "start_url": "/notes-pwa/",
     "display": "standalone",
     "theme_color": "#6200ee",
     "background_color": "#ffffff",
